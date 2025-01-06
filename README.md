@@ -25,4 +25,4 @@ Possible Extensions or additions:
 Negative Conditioning: Add parameters like bitterness, unpleasant smell, or adverse texture to reduce the score.
 Dynamic Weights: Introduce variables to dynamically adjust the weights based on personal or cultural preferences.
 Feedback Loop: Incorporate past experiences with the food to influence future preference scores.
-Take in Account for Decimal Based Integer Perfection
+Finally we should take in Account for Decimal Based Integer Perfection in the calculation.
