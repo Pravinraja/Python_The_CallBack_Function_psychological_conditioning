@@ -12,8 +12,6 @@ In Our Python Program the def function calculate_food_preference calculates the 
 
 The formula assigns weights to each factor (e.g., taste = 50%, smell = 30%, texture = 20%). We can Adjust these weights to reflect our psychological model.
 
-Source: The relative importance of taste, smell, and texture in food preference can really vary among individuals and contexts. A study titled "The relative importance of texture, taste and aroma on a yogurt-type snack food preference in the young and the elderly" in the year 2008 examined how these three specific attributes influence overall taste conditioning of a yogurt based dishes. The findings suggest that while all three factors are quite significant, their relative importance can also differ based on age and individual preferences.
-
 Python Main Function: food_taste_conditioning validates the callback and executes it with the provided arguments.
 Usage:
 
