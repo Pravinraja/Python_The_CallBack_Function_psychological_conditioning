@@ -1,8 +1,7 @@
-How It Works
-Callback Function:
+
 A callback function is a function that is passed to another function as an argument.
 
-It can be done in two ways:
+It can be done in two ways in Python:
 
 Passing one function as an argument to another function
 
