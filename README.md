@@ -7,7 +7,7 @@ Passing one function as an argument to another function
 
 Calling a function inside another function
 
-In Our Python Program the def function calculate_food_preference calculates the strength of preference based on food's taste, smell, and texture. The example shows how operant conditioning, a term in Psychology: where behavior is influenced by rewards or punishments, can be modeled out in Python. This is done by calculating food preferences based on weighted sensory factors, simulating reinforcement mechanisms.
+In Our Python Program the def function calculate_food_preference calculates the strength of preference based on food's taste, smell, and texture. The example shows how operant conditioning, a term in Psychology: where behavior is influenced by rewards or punishments, can be modeled out in Python. This is done by calculating food preferences based on weighted sensory factors, simulating reinforcement in Psychology.
 
 The formula assigns weights to each factor (e.g., taste = 50%, smell = 30%, texture = 20%). We can Adjust these weights to reflect our psychological model.
 
